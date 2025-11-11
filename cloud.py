@@ -1,1 +1,2 @@
-this is my new application
+print("this is my new application")
+print("testing credentials for aws in production")
